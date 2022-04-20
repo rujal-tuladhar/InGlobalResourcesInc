@@ -869,8 +869,8 @@ grid-template-columns: repeat(2,1fr);
 {
     position:relative;
     background-color:var(--container-color);
-    padding:.2rem;
-    border-radius: 1.5rem;
+    padding:.5rem;
+    border-radius: 0.99rem;
 
 
 }
